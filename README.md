@@ -39,7 +39,7 @@
 <h2 align="center"> 📝 Contact me 📝</h2>
 <br>
 <p align="center">Here's my social links 😃</p>
-<p align="center"><a href="https://twitter.com/chanthamontry"><img src="https://img.shields.io/badge/Chanthamontry%20-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white"/></a>  <a href="https://www.linkedin.com/feed/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/> </a>  <a href="mailto: chanthamontryc0717@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a></p>
+<p align="center"><a href="https://twitter.com/chanthamontry"><img src="https://img.shields.io/badge/Chanthamontry%20-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white"/></a>  <a href="https://www.linkedin.com/in/cassandra-chanthamontry/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/> </a>  <a href="mailto: chanthamontryc0717@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a></p>
 </div>
 </body>
 
